@@ -203,3 +203,109 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
   </body>
 </html>
+
+
+/* tags */
+h1{
+    font-family: "Montserrat-black";
+    font-size: 4rem;
+    line-height: 1.5;
+}
+p{
+    color: #8f8f8f;
+}
+body{
+    font-family: "Montserrat";
+}
+i{
+    color: antiquewhite;
+    font-size: 20px;
+}
+
+/* id's */
+#cta{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 7% 15%;
+}
+#footer{
+    text-align: center;
+    padding: 7% 15%;
+}
+#navbarNav{
+    position: absolute;
+    right: 10px;
+}
+#title{
+    background-color: antiquewhite;
+}
+ #features{ 
+    margin: 50px 0 100px; 
+    text-align: center; 
+}
+
+#testimonials{
+    background-color: antiquewhite;
+    padding: 7% 15%;
+    text-align: center;
+    font-family: "Montserrat-Bold";
+}
+#press{
+    background-color: antiquewhite;
+    padding: 0 15% 7%;
+    text-align: center;
+}
+#pricing{
+    padding: 7% 15%;
+    text-align: center;
+}
+
+/* classes */
+.priccing-col{
+    padding: 3% 2%;
+} 
+.press-logo{
+    width: 15%;
+}
+.testimonial-image{
+    width: 15%;
+    border-radius: 100%;
+    margin: 20px;
+}
+.Download-button{
+    margin: 5% 3% 5% 0;
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.navbar-brand{
+    font-size: 1,5rem;
+    font-family: "Ubuntu";
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 10px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserret-light";
+}
+.container-fluid{
+    padding: 3% 15%;
+   
+}
+.footer-i{
+    padding: 1rem;
+}
+.rotate {
+    width: 60%;
+    transform: rotate(25deg); /* Equal to rotateZ(45deg) */
+  }
+.feature{
+    padding: 5%;
+}
+.bi:hover{
+    color: #ff4c68;
+}
